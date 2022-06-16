@@ -1,5 +1,0 @@
-class Figura {
-  
-  void dibujar(){
-  }
-}
